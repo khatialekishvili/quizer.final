@@ -1,0 +1,2 @@
+com/hamker/quizer/BuildConfig.java
+ com.hamker.quizer.BuildConfig

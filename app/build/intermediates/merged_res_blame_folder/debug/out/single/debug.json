@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_languages.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/languages.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_selected_option_border.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/selected_option_border.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_kotlin.jpg.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/kotlin.jpg"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_kotlin_mascot.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/kotlin_mascot.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_ic_bg.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/ic_bg.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_default_option_border.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/default_option_border.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_loop.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/loop.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_ic_trophy.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/ic_trophy.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_reset_pass.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_reset_pass.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_datatypes.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/datatypes.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/drawable_results_bg.png.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/drawable/results_bg.png"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_results.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_results.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/layout_activity_questions.xml.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/layout/activity_questions.xml"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/khatialekishvili/Desktop/QuizAppKotlinAndroid-master-2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
